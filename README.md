@@ -63,26 +63,6 @@ This project was developed as part of the **Programming Fundamentals Lab (Fall 2
 
 ---
 
-## 📂 Project Structure
-
-```
-Smart-Quiz-Maker/
-│── main.cpp
-│── admin.cpp
-│── teacher.cpp
-│── student.cpp
-│── file_handler.cpp
-│── data/
-│   ├── users.txt
-│   ├── quizzes.txt
-│   └── results.txt
-│── README.md
-```
-
-*(Modify structure according to your actual files)*
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository:
