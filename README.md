@@ -88,7 +88,7 @@ Smart-Quiz-Maker/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/smart-quiz-maker.git
+   git clone https://github.com/NaumanAhmad2005/PF-Project.git
    ```
 
 2. Navigate to project folder:
